@@ -1,3 +1,6 @@
+# Project Details
+Project was created to learn basics of react, react-router, redux and firebase. This project follows the ZTM (Zero to Mastery) Complete React Developer in 2023 (w/ Redux, Hooks, GraphQL). Link to course: https://www.udemy.com/course/complete-react-developer-zero-to-mastery/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
